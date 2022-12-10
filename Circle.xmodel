@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<circlemodel 
+name="Circle" parm1="1" parm2="100" parm3="50" DisplayAs="Circle" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="" Antialias="1" StartSide="B" Dir="L" LayerSizes="" InsideOut="0" SourceVersion="2021.36"  >
+</circlemodel>

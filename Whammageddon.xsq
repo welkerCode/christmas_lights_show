@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2022.21</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Last Christmas (Remastered)</song>
+    <artist>Wham!</artist>
+    <album>Twenty Five [Clean]</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>C:\Users\taylo\Downloads\(Disc 2) 02 - Last Christmas (Remastered).mp3</mediaFile>
+    <sequenceDuration>267.160</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette6=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette6=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette3=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=10,E_SLIDER_Snowflakes_Speed=19,E_SLIDER_Snowflakes_Type=1</Effect>
+    <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=10,E_SLIDER_Snowflakes_Speed=19,E_SLIDER_Snowflakes_Type=2</Effect>
+    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=3,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=1,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=3.1,T_CHECKBOX_Canvas=1</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect></Effect>
+    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=3,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=8,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1</Effect>
+    <Effect>E_CHECKBOX_Music_Fade=0,E_CHECKBOX_Music_LogarithmicX=0,E_CHECKBOX_Music_Scale=1,E_CHOICE_Music_Colour=Cycle,E_CHOICE_Music_Scaling=Individual Notes,E_CHOICE_Music_Type=Bounce,E_SLIDER_Music_Bars=20,E_SLIDER_Music_EndNote=127,E_SLIDER_Music_Offset=0,E_SLIDER_Music_Sensitivity=31,E_SLIDER_Music_StartNote=28</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1</Effect>
+    <Effect>E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=3,E_SLIDER_Strobe_Duration=10,E_SLIDER_Strobe_Type=1</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=5.0</Effect>
+    <Effect>E_CHECKBOX_Circles_Bounce=1,E_CHECKBOX_Circles_Bubbles=1,E_CHECKBOX_Circles_Collide=0,E_CHECKBOX_Circles_Linear_Fade=0,E_CHECKBOX_Circles_Plasma=0,E_CHECKBOX_Circles_Radial=0,E_CHECKBOX_Circles_Radial_3D=0,E_CHECKBOX_Circles_Random_m=0,E_SLIDER_Circles_Count=3,E_SLIDER_Circles_Size=5,E_SLIDER_Circles_Speed=5</Effect>
+    <Effect>E_CHECKBOX_PRE_2017_7=0,E_CHECKBOX_Shimmer_Use_All_Colors=1,E_SLIDER_Shimmer_Duty_Factor=100,E_TEXTCTRL_Shimmer_Cycles=1.0</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=100,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=5</Effect>
+    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=3,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=9,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1</Effect>
+    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Options,E_SLIDER_Shockwave_Accel=-4,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=0,E_SLIDER_Shockwave_End_Width=10,E_SLIDER_Shockwave_Start_Radius=52,E_SLIDER_Shockwave_Start_Width=5</Effect>
+    <Effect>E_CHECKBOX_FIRETIMING=0,E_CHECKBOX_Fireworks_Gravity=1,E_CHECKBOX_Fireworks_HoldColour=1,E_CHECKBOX_Fireworks_UseMusic=0,E_SLIDER_Fireworks_Count=100,E_SLIDER_Fireworks_Explosions=47,E_SLIDER_Fireworks_Fade=50,E_SLIDER_Fireworks_Velocity=2,E_SLIDER_Fireworks_XLocation=-1,E_SLIDER_Fireworks_XVelocity=0,E_SLIDER_Fireworks_YLocation=-1,E_SLIDER_Fireworks_YVelocity=0,E_TEXTCTRL_Fireworks_XLocation=-1,E_TEXTCTRL_Fireworks_XVelocity=0,E_TEXTCTRL_Fireworks_YLocation=-1,E_TEXTCTRL_Fireworks_YVelocity=0</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Implode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=3,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Palette,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=22,E_SLIDER_Butterfly_Style=1</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
+    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=3,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=5,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=3.0</Effect>
+    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=3,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=3,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1</Effect>
+    <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=21,E_SLIDER_Snowflakes_Speed=6,E_SLIDER_Snowflakes_Type=2</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=0.8</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=100,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=10,E_SLIDER_Snowflakes_Speed=6,E_SLIDER_Snowflakes_Type=2</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Circle" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Frame-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Frame-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Frame" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="7675"></Effect>
+        <Effect label="" startTime="7675" endTime="12550"></Effect>
+        <Effect label="" startTime="12550" endTime="18150"></Effect>
+        <Effect label="" startTime="18150" endTime="21300"></Effect>
+        <Effect label="" startTime="21300" endTime="22000"></Effect>
+        <Effect label="" startTime="22000" endTime="24650"></Effect>
+        <Effect label="" startTime="24650" endTime="27150"></Effect>
+        <Effect label="" startTime="27150" endTime="29050"></Effect>
+        <Effect label="" startTime="29050" endTime="31625"></Effect>
+        <Effect label="" startTime="31625" endTime="36000"></Effect>
+        <Effect label="" startTime="36000" endTime="39000"></Effect>
+        <Effect label="" startTime="39000" endTime="40000"></Effect>
+        <Effect label="" startTime="40000" endTime="42650"></Effect>
+        <Effect label="" startTime="42650" endTime="45150"></Effect>
+        <Effect label="" startTime="45150" endTime="47050"></Effect>
+        <Effect label="" startTime="47050" endTime="49325"></Effect>
+        <Effect label="" startTime="49325" endTime="52625"></Effect>
+        <Effect label="" startTime="52625" endTime="54050"></Effect>
+        <Effect label="" startTime="54050" endTime="72550"></Effect>
+        <Effect label="" startTime="72550" endTime="80700"></Effect>
+        <Effect label="" startTime="80700" endTime="81600"></Effect>
+        <Effect label="" startTime="81600" endTime="86700"></Effect>
+        <Effect label="" startTime="86700" endTime="87600"></Effect>
+        <Effect label="" startTime="87600" endTime="90025"></Effect>
+        <Effect label="" startTime="90025" endTime="96300"></Effect>
+        <Effect label="" startTime="96300" endTime="99000"></Effect>
+        <Effect label="" startTime="99000" endTime="103200"></Effect>
+        <Effect label="" startTime="103200" endTime="105000"></Effect>
+        <Effect label="" startTime="105000" endTime="107975"></Effect>
+        <Effect label="" startTime="107975" endTime="111075"></Effect>
+        <Effect label="" startTime="111075" endTime="112475"></Effect>
+        <Effect label="" startTime="112475" endTime="114425"></Effect>
+        <Effect label="" startTime="114425" endTime="116950"></Effect>
+        <Effect label="" startTime="116950" endTime="118900"></Effect>
+        <Effect label="" startTime="118900" endTime="121175"></Effect>
+        <Effect label="" startTime="121175" endTime="124400"></Effect>
+        <Effect label="" startTime="124400" endTime="125975"></Effect>
+        <Effect label="" startTime="125975" endTime="129025"></Effect>
+        <Effect label="" startTime="129025" endTime="129900"></Effect>
+        <Effect label="" startTime="129900" endTime="132400"></Effect>
+        <Effect label="" startTime="132400" endTime="134925"></Effect>
+        <Effect label="" startTime="134925" endTime="136850"></Effect>
+        <Effect label="" startTime="136850" endTime="139375"></Effect>
+        <Effect label="" startTime="139375" endTime="142500"></Effect>
+        <Effect label="" startTime="142500" endTime="143625"></Effect>
+        <Effect label="" startTime="143625" endTime="159300"></Effect>
+        <Effect label="" startTime="159300" endTime="162450"></Effect>
+        <Effect label="" startTime="162450" endTime="166850"></Effect>
+        <Effect label="" startTime="166850" endTime="171350"></Effect>
+        <Effect label="" startTime="171350" endTime="176175"></Effect>
+        <Effect label="" startTime="176175" endTime="179850"></Effect>
+        <Effect label="" startTime="179850" endTime="186600"></Effect>
+        <Effect label="" startTime="186600" endTime="192775"></Effect>
+        <Effect label="" startTime="192775" endTime="194725"></Effect>
+        <Effect label="" startTime="194725" endTime="197700"></Effect>
+        <Effect label="" startTime="197700" endTime="200850"></Effect>
+        <Effect label="" startTime="200850" endTime="201750"></Effect>
+        <Effect label="" startTime="201750" endTime="204225"></Effect>
+        <Effect label="" startTime="204225" endTime="206800"></Effect>
+        <Effect label="" startTime="206800" endTime="208750"></Effect>
+        <Effect label="" startTime="208750" endTime="211000"></Effect>
+        <Effect label="" startTime="211000" endTime="214375"></Effect>
+        <Effect label="" startTime="214375" endTime="215775"></Effect>
+        <Effect label="" startTime="215775" endTime="218000"></Effect>
+        <Effect label="" startTime="218000" endTime="219675"></Effect>
+        <Effect label="" startTime="219675" endTime="222275"></Effect>
+        <Effect label="" startTime="222275" endTime="224775"></Effect>
+        <Effect label="" startTime="224775" endTime="226700"></Effect>
+        <Effect label="" startTime="226700" endTime="228975"></Effect>
+        <Effect label="" startTime="228975" endTime="232275"></Effect>
+        <Effect label="" startTime="232275" endTime="233775"></Effect>
+        <Effect label="" startTime="233775" endTime="240475"></Effect>
+        <Effect label="" startTime="240475" endTime="246950"></Effect>
+        <Effect label="" startTime="246950" endTime="249200"></Effect>
+        <Effect label="" startTime="249200" endTime="251450"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Circle">
+      <EffectLayer>
+        <Effect ref="0" name="Snowflakes" startTime="0" endTime="7675" palette="0"/>
+        <Effect ref="1" name="Snowflakes" id="1" startTime="7675" endTime="12550" palette="1"/>
+        <Effect ref="1" name="Snowflakes" id="2" startTime="12550" endTime="18150" palette="2"/>
+        <Effect ref="2" name="Marquee" id="3" startTime="18150" endTime="21300" palette="3"/>
+        <Effect ref="3" name="Bars" id="4" startTime="21300" endTime="22000" palette="0"/>
+        <Effect ref="4" name="Curtain" id="5" startTime="22000" endTime="24650" palette="4"/>
+        <Effect ref="3" name="Bars" id="6" startTime="24650" endTime="27150" palette="5"/>
+        <Effect ref="5" name="Spirals" id="7" startTime="27150" endTime="29050" palette="3"/>
+        <Effect ref="6" name="Curtain" id="8" startTime="29050" endTime="31625" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="9" startTime="31625" endTime="36000" palette="6"/>
+        <Effect ref="2" name="Marquee" id="10" startTime="36000" endTime="39000" palette="3"/>
+        <Effect ref="3" name="Bars" id="11" startTime="39000" endTime="40000" palette="0"/>
+        <Effect ref="4" name="Curtain" id="12" startTime="40000" endTime="42650" palette="4"/>
+        <Effect ref="3" name="Bars" id="13" startTime="42650" endTime="45150" palette="5"/>
+        <Effect ref="5" name="Spirals" id="14" startTime="45150" endTime="47050" palette="3"/>
+        <Effect ref="6" name="Curtain" id="15" startTime="47050" endTime="49325" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="16" startTime="49325" endTime="52625" palette="6"/>
+        <Effect ref="8" name="Marquee" id="17" startTime="52625" endTime="54050" palette="7"/>
+        <Effect ref="9" name="Music Effect" id="18" startTime="54050" endTime="72550" palette="7"/>
+        <Effect ref="10" name="Butterfly" id="19" startTime="72550" endTime="80700" palette="8"/>
+        <Effect ref="3" name="Bars" id="20" startTime="80700" endTime="81600" palette="8"/>
+        <Effect ref="11" name="Strobe" id="21" startTime="81600" endTime="86700" palette="8"/>
+        <Effect ref="4" name="Curtain" id="22" startTime="86700" endTime="87600" palette="4"/>
+        <Effect ref="11" name="Strobe" id="23" startTime="87600" endTime="90025" palette="9"/>
+        <Effect ref="5" name="Spirals" id="24" startTime="90025" endTime="96300" palette="3"/>
+        <Effect ref="12" name="Bars" id="25" startTime="96300" endTime="99000" palette="10"/>
+        <Effect ref="13" name="Circles" id="26" startTime="99000" endTime="103200" palette="5"/>
+        <Effect ref="14" name="Shimmer" id="27" startTime="103200" endTime="105000" palette="7"/>
+        <Effect ref="15" name="SingleStrand" id="28" startTime="105000" endTime="107975" palette="11"/>
+        <Effect ref="2" name="Marquee" id="29" startTime="107975" endTime="111075" palette="3"/>
+        <Effect ref="3" name="Bars" id="30" startTime="111075" endTime="112475" palette="0"/>
+        <Effect ref="4" name="Curtain" id="31" startTime="112475" endTime="114425" palette="4"/>
+        <Effect ref="3" name="Bars" id="32" startTime="114425" endTime="116950" palette="5"/>
+        <Effect ref="5" name="Spirals" id="33" startTime="116950" endTime="118900" palette="3"/>
+        <Effect ref="6" name="Curtain" id="34" startTime="118900" endTime="121175" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="35" startTime="121175" endTime="124400" palette="6"/>
+        <Effect ref="8" name="Marquee" id="36" startTime="124400" endTime="125975" palette="7"/>
+        <Effect ref="2" name="Marquee" id="37" startTime="125975" endTime="129025" palette="3"/>
+        <Effect ref="3" name="Bars" id="38" startTime="129025" endTime="129900" palette="0"/>
+        <Effect ref="4" name="Curtain" id="39" startTime="129900" endTime="132400" palette="4"/>
+        <Effect ref="16" name="Bars" id="40" startTime="132400" endTime="134925" palette="12"/>
+        <Effect ref="5" name="Spirals" id="41" startTime="134925" endTime="136850" palette="3"/>
+        <Effect ref="6" name="Curtain" id="42" startTime="136850" endTime="139375" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="43" startTime="139375" endTime="142475" palette="6"/>
+        <Effect ref="17" name="Marquee" id="44" startTime="142500" endTime="143625" palette="7"/>
+        <Effect ref="9" name="Music Effect" id="45" startTime="143625" endTime="159300" palette="7"/>
+        <Effect ref="7" name="Color Wash" id="46" startTime="159300" endTime="162450" palette="13"/>
+        <Effect ref="6" name="Curtain" id="47" startTime="162450" endTime="166850" palette="14"/>
+        <Effect ref="18" name="Shockwave" id="48" startTime="166850" endTime="171350" palette="11"/>
+        <Effect ref="19" name="Fireworks" id="49" startTime="171350" endTime="176175" palette="15"/>
+        <Effect ref="20" name="Ripple" id="50" startTime="176175" endTime="179850" palette="5"/>
+        <Effect ref="21" name="Butterfly" id="51" startTime="179850" endTime="186600" palette="14"/>
+        <Effect ref="22" name="Curtain" id="52" startTime="186600" endTime="192775" palette="16"/>
+        <Effect ref="2" name="Marquee" id="53" startTime="192775" endTime="194725" palette="7"/>
+        <Effect ref="15" name="SingleStrand" id="54" startTime="194725" endTime="197700" palette="7"/>
+        <Effect ref="2" name="Marquee" id="55" startTime="197700" endTime="200850" palette="3"/>
+        <Effect ref="3" name="Bars" id="56" startTime="200850" endTime="201750" palette="0"/>
+        <Effect ref="4" name="Curtain" id="57" startTime="201750" endTime="204225" palette="4"/>
+        <Effect ref="3" name="Bars" id="58" startTime="204225" endTime="206800" palette="5"/>
+        <Effect ref="5" name="Spirals" id="59" startTime="206800" endTime="208750" palette="3"/>
+        <Effect ref="6" name="Curtain" id="60" startTime="208750" endTime="211000" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="61" startTime="211000" endTime="214125" palette="6"/>
+        <Effect ref="8" name="Marquee" id="62" startTime="214125" endTime="215775" palette="7"/>
+        <Effect ref="23" name="Marquee" id="63" startTime="215775" endTime="218000" palette="3"/>
+        <Effect ref="24" name="Bars" id="64" startTime="218000" endTime="219675" palette="2"/>
+        <Effect ref="4" name="Curtain" id="65" startTime="219675" endTime="222275" palette="4"/>
+        <Effect ref="16" name="Bars" id="66" startTime="222275" endTime="224775" palette="12"/>
+        <Effect ref="5" name="Spirals" id="67" startTime="224775" endTime="226700" palette="3"/>
+        <Effect ref="6" name="Curtain" id="68" startTime="226700" endTime="228975" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="69" startTime="228975" endTime="232275" palette="6"/>
+        <Effect ref="17" name="Marquee" id="70" startTime="232300" endTime="233775" palette="7"/>
+        <Effect ref="21" name="Butterfly" id="71" startTime="233775" endTime="240475" palette="14"/>
+        <Effect ref="22" name="Curtain" id="72" startTime="240475" endTime="246950" palette="16"/>
+        <Effect ref="25" name="Marquee" id="73" startTime="246950" endTime="249200" palette="7"/>
+        <Effect ref="17" name="Marquee" id="74" startTime="249200" endTime="251450" palette="7"/>
+        <Effect ref="7" name="Color Wash" id="75" startTime="251450" endTime="267825" palette="17"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Window Frame-3">
+      <EffectLayer>
+        <Effect ref="0" name="Snowflakes" startTime="0" endTime="7675" palette="0"/>
+        <Effect ref="26" name="Snowflakes" id="1" startTime="7675" endTime="12550" palette="1"/>
+        <Effect ref="26" name="Snowflakes" id="2" startTime="12550" endTime="18150" palette="2"/>
+        <Effect ref="2" name="Marquee" id="3" startTime="18150" endTime="21300" palette="3"/>
+        <Effect ref="3" name="Bars" id="4" startTime="21300" endTime="22000" palette="0"/>
+        <Effect ref="27" name="Curtain" id="5" startTime="22000" endTime="24650" palette="4"/>
+        <Effect ref="3" name="Bars" id="6" startTime="24650" endTime="27150" palette="5"/>
+        <Effect ref="5" name="Spirals" id="7" startTime="27150" endTime="29050" palette="3"/>
+        <Effect ref="6" name="Curtain" id="8" startTime="29050" endTime="31625" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="9" startTime="31625" endTime="36000" palette="6"/>
+        <Effect ref="2" name="Marquee" id="10" startTime="36000" endTime="39000" palette="3"/>
+        <Effect ref="3" name="Bars" id="11" startTime="39000" endTime="40000" palette="0"/>
+        <Effect ref="4" name="Curtain" id="12" startTime="40000" endTime="42650" palette="4"/>
+        <Effect ref="3" name="Bars" id="13" startTime="42650" endTime="45150" palette="5"/>
+        <Effect ref="5" name="Spirals" id="14" startTime="45150" endTime="47050" palette="3"/>
+        <Effect ref="6" name="Curtain" id="15" startTime="47050" endTime="49325" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="16" startTime="49325" endTime="52625" palette="6"/>
+        <Effect ref="8" name="Marquee" id="17" startTime="52625" endTime="54050" palette="7"/>
+        <Effect ref="9" name="Music Effect" id="18" startTime="54050" endTime="72550" palette="7"/>
+        <Effect ref="10" name="Butterfly" id="19" startTime="72550" endTime="80700" palette="8"/>
+        <Effect ref="3" name="Bars" id="20" startTime="80700" endTime="81600" palette="8"/>
+        <Effect ref="11" name="Strobe" id="21" startTime="81600" endTime="86700" palette="8"/>
+        <Effect ref="4" name="Curtain" id="22" startTime="86700" endTime="87600" palette="4"/>
+        <Effect ref="11" name="Strobe" id="23" startTime="87600" endTime="90025" palette="9"/>
+        <Effect ref="5" name="Spirals" id="24" startTime="90025" endTime="96300" palette="3"/>
+        <Effect ref="12" name="Bars" id="25" startTime="96300" endTime="99000" palette="10"/>
+        <Effect ref="13" name="Circles" id="26" startTime="99000" endTime="103200" palette="5"/>
+        <Effect ref="14" name="Shimmer" id="27" startTime="103200" endTime="105000" palette="7"/>
+        <Effect ref="28" name="SingleStrand" id="28" startTime="105000" endTime="107975" palette="11"/>
+        <Effect ref="2" name="Marquee" id="29" startTime="107975" endTime="111075" palette="3"/>
+        <Effect ref="3" name="Bars" id="30" startTime="111075" endTime="112475" palette="0"/>
+        <Effect ref="4" name="Curtain" id="31" startTime="112475" endTime="114425" palette="4"/>
+        <Effect ref="3" name="Bars" id="32" startTime="114425" endTime="116950" palette="5"/>
+        <Effect ref="5" name="Spirals" id="33" startTime="116950" endTime="118900" palette="3"/>
+        <Effect ref="6" name="Curtain" id="34" startTime="118900" endTime="121175" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="35" startTime="121175" endTime="124400" palette="6"/>
+        <Effect ref="8" name="Marquee" id="36" startTime="124400" endTime="125975" palette="7"/>
+        <Effect ref="2" name="Marquee" id="37" startTime="125975" endTime="129025" palette="3"/>
+        <Effect ref="3" name="Bars" id="38" startTime="129025" endTime="129900" palette="0"/>
+        <Effect ref="4" name="Curtain" id="39" startTime="129900" endTime="132400" palette="4"/>
+        <Effect ref="16" name="Bars" id="40" startTime="132400" endTime="134925" palette="12"/>
+        <Effect ref="5" name="Spirals" id="41" startTime="134925" endTime="136850" palette="3"/>
+        <Effect ref="6" name="Curtain" id="42" startTime="136850" endTime="139375" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="43" startTime="139375" endTime="142475" palette="6"/>
+        <Effect ref="17" name="Marquee" id="44" startTime="142500" endTime="143625" palette="7"/>
+        <Effect ref="9" name="Music Effect" id="45" startTime="143625" endTime="159300" palette="7"/>
+        <Effect ref="7" name="Color Wash" id="46" startTime="159300" endTime="162450" palette="13"/>
+        <Effect ref="6" name="Curtain" id="47" startTime="162450" endTime="166850" palette="14"/>
+        <Effect ref="18" name="Shockwave" id="48" startTime="166850" endTime="171350" palette="11"/>
+        <Effect ref="19" name="Fireworks" id="49" startTime="171350" endTime="176175" palette="15"/>
+        <Effect ref="20" name="Ripple" id="50" startTime="176175" endTime="179850" palette="5"/>
+        <Effect ref="21" name="Butterfly" id="51" startTime="179850" endTime="186600" palette="14"/>
+        <Effect ref="22" name="Curtain" id="52" startTime="186600" endTime="192775" palette="16"/>
+        <Effect ref="2" name="Marquee" id="53" startTime="192775" endTime="194725" palette="7"/>
+        <Effect ref="15" name="SingleStrand" id="54" startTime="194725" endTime="197700" palette="7"/>
+        <Effect ref="2" name="Marquee" id="55" startTime="197700" endTime="200850" palette="3"/>
+        <Effect ref="3" name="Bars" id="56" startTime="200850" endTime="201750" palette="0"/>
+        <Effect ref="4" name="Curtain" id="57" startTime="201750" endTime="204225" palette="4"/>
+        <Effect ref="3" name="Bars" id="58" startTime="204225" endTime="206800" palette="5"/>
+        <Effect ref="5" name="Spirals" id="59" startTime="206800" endTime="208750" palette="3"/>
+        <Effect ref="6" name="Curtain" id="60" startTime="208750" endTime="211000" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="61" startTime="211000" endTime="214125" palette="6"/>
+        <Effect ref="8" name="Marquee" id="62" startTime="214125" endTime="215775" palette="7"/>
+        <Effect ref="23" name="Marquee" id="63" startTime="215775" endTime="218000" palette="3"/>
+        <Effect ref="24" name="Bars" id="64" startTime="218000" endTime="219675" palette="2"/>
+        <Effect ref="4" name="Curtain" id="65" startTime="219675" endTime="222275" palette="4"/>
+        <Effect ref="16" name="Bars" id="66" startTime="222275" endTime="224775" palette="12"/>
+        <Effect ref="5" name="Spirals" id="67" startTime="224775" endTime="226700" palette="3"/>
+        <Effect ref="6" name="Curtain" id="68" startTime="226700" endTime="228975" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="69" startTime="228975" endTime="232275" palette="6"/>
+        <Effect ref="17" name="Marquee" id="70" startTime="232300" endTime="233775" palette="7"/>
+        <Effect ref="21" name="Butterfly" id="71" startTime="233775" endTime="240475" palette="14"/>
+        <Effect ref="22" name="Curtain" id="72" startTime="240475" endTime="246950" palette="16"/>
+        <Effect ref="25" name="Marquee" id="73" startTime="246950" endTime="249200" palette="7"/>
+        <Effect ref="17" name="Marquee" id="74" startTime="249200" endTime="251450" palette="7"/>
+        <Effect ref="7" name="Color Wash" id="75" startTime="251450" endTime="267825" palette="17"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Window Frame-2">
+      <EffectLayer>
+        <Effect ref="0" name="Snowflakes" startTime="0" endTime="7675" palette="0"/>
+        <Effect ref="29" name="Snowflakes" id="1" startTime="7675" endTime="12550" palette="1"/>
+        <Effect ref="29" name="Snowflakes" id="2" startTime="12550" endTime="18150" palette="2"/>
+        <Effect ref="2" name="Marquee" id="3" startTime="18150" endTime="21300" palette="3"/>
+        <Effect ref="3" name="Bars" id="4" startTime="21300" endTime="22000" palette="0"/>
+        <Effect ref="27" name="Curtain" id="5" startTime="22000" endTime="24650" palette="4"/>
+        <Effect ref="3" name="Bars" id="6" startTime="24650" endTime="27150" palette="5"/>
+        <Effect ref="5" name="Spirals" id="7" startTime="27150" endTime="29050" palette="3"/>
+        <Effect ref="6" name="Curtain" id="8" startTime="29050" endTime="31625" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="9" startTime="31625" endTime="36000" palette="6"/>
+        <Effect ref="2" name="Marquee" id="10" startTime="36000" endTime="39000" palette="3"/>
+        <Effect ref="3" name="Bars" id="11" startTime="39000" endTime="40000" palette="0"/>
+        <Effect ref="4" name="Curtain" id="12" startTime="40000" endTime="42650" palette="4"/>
+        <Effect ref="3" name="Bars" id="13" startTime="42650" endTime="45150" palette="5"/>
+        <Effect ref="5" name="Spirals" id="14" startTime="45150" endTime="47050" palette="3"/>
+        <Effect ref="6" name="Curtain" id="15" startTime="47050" endTime="49325" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="16" startTime="49325" endTime="52625" palette="6"/>
+        <Effect ref="8" name="Marquee" id="17" startTime="52625" endTime="54050" palette="7"/>
+        <Effect ref="9" name="Music Effect" id="18" startTime="54050" endTime="72550" palette="7"/>
+        <Effect ref="10" name="Butterfly" id="19" startTime="72550" endTime="80700" palette="8"/>
+        <Effect ref="3" name="Bars" id="20" startTime="80700" endTime="81600" palette="8"/>
+        <Effect ref="11" name="Strobe" id="21" startTime="81600" endTime="86700" palette="8"/>
+        <Effect ref="4" name="Curtain" id="22" startTime="86700" endTime="87600" palette="4"/>
+        <Effect ref="11" name="Strobe" id="23" startTime="87600" endTime="90025" palette="9"/>
+        <Effect ref="5" name="Spirals" id="24" startTime="90025" endTime="96300" palette="3"/>
+        <Effect ref="12" name="Bars" id="25" startTime="96300" endTime="99000" palette="10"/>
+        <Effect ref="13" name="Circles" id="26" startTime="99000" endTime="103200" palette="5"/>
+        <Effect ref="14" name="Shimmer" id="27" startTime="103200" endTime="105000" palette="7"/>
+        <Effect ref="28" name="SingleStrand" id="28" startTime="105000" endTime="107975" palette="11"/>
+        <Effect ref="2" name="Marquee" id="29" startTime="107975" endTime="111075" palette="3"/>
+        <Effect ref="3" name="Bars" id="30" startTime="111075" endTime="112475" palette="0"/>
+        <Effect ref="4" name="Curtain" id="31" startTime="112475" endTime="114425" palette="4"/>
+        <Effect ref="3" name="Bars" id="32" startTime="114425" endTime="116950" palette="5"/>
+        <Effect ref="5" name="Spirals" id="33" startTime="116950" endTime="118900" palette="3"/>
+        <Effect ref="6" name="Curtain" id="34" startTime="118900" endTime="121175" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="35" startTime="121175" endTime="124400" palette="6"/>
+        <Effect ref="8" name="Marquee" id="36" startTime="124400" endTime="125975" palette="7"/>
+        <Effect ref="2" name="Marquee" id="37" startTime="125975" endTime="129025" palette="3"/>
+        <Effect ref="3" name="Bars" id="38" startTime="129025" endTime="129900" palette="0"/>
+        <Effect ref="4" name="Curtain" id="39" startTime="129900" endTime="132400" palette="4"/>
+        <Effect ref="16" name="Bars" id="40" startTime="132400" endTime="134925" palette="12"/>
+        <Effect ref="5" name="Spirals" id="41" startTime="134925" endTime="136850" palette="3"/>
+        <Effect ref="6" name="Curtain" id="42" startTime="136850" endTime="139375" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="43" startTime="139375" endTime="142475" palette="6"/>
+        <Effect ref="17" name="Marquee" id="44" startTime="142500" endTime="143625" palette="7"/>
+        <Effect ref="9" name="Music Effect" id="45" startTime="143625" endTime="159300" palette="7"/>
+        <Effect ref="7" name="Color Wash" id="46" startTime="159300" endTime="162450" palette="13"/>
+        <Effect ref="6" name="Curtain" id="47" startTime="162450" endTime="166850" palette="14"/>
+        <Effect ref="18" name="Shockwave" id="48" startTime="166850" endTime="171350" palette="11"/>
+        <Effect ref="19" name="Fireworks" id="49" startTime="171350" endTime="176175" palette="15"/>
+        <Effect ref="20" name="Ripple" id="50" startTime="176175" endTime="179850" palette="5"/>
+        <Effect ref="21" name="Butterfly" id="51" startTime="179850" endTime="186600" palette="14"/>
+        <Effect ref="22" name="Curtain" id="52" startTime="186600" endTime="192775" palette="16"/>
+        <Effect ref="2" name="Marquee" id="53" startTime="192775" endTime="194725" palette="7"/>
+        <Effect ref="15" name="SingleStrand" id="54" startTime="194725" endTime="197700" palette="7"/>
+        <Effect ref="2" name="Marquee" id="55" startTime="197700" endTime="200850" palette="3"/>
+        <Effect ref="3" name="Bars" id="56" startTime="200850" endTime="201750" palette="0"/>
+        <Effect ref="4" name="Curtain" id="57" startTime="201750" endTime="204225" palette="4"/>
+        <Effect ref="3" name="Bars" id="58" startTime="204225" endTime="206800" palette="5"/>
+        <Effect ref="5" name="Spirals" id="59" startTime="206800" endTime="208750" palette="3"/>
+        <Effect ref="6" name="Curtain" id="60" startTime="208750" endTime="211000" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="61" startTime="211000" endTime="214125" palette="6"/>
+        <Effect ref="8" name="Marquee" id="62" startTime="214125" endTime="215775" palette="7"/>
+        <Effect ref="23" name="Marquee" id="63" startTime="215775" endTime="218000" palette="3"/>
+        <Effect ref="24" name="Bars" id="64" startTime="218000" endTime="219675" palette="2"/>
+        <Effect ref="4" name="Curtain" id="65" startTime="219675" endTime="222275" palette="4"/>
+        <Effect ref="16" name="Bars" id="66" startTime="222275" endTime="224775" palette="12"/>
+        <Effect ref="5" name="Spirals" id="67" startTime="224775" endTime="226700" palette="3"/>
+        <Effect ref="6" name="Curtain" id="68" startTime="226700" endTime="228975" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="69" startTime="228975" endTime="232275" palette="6"/>
+        <Effect ref="17" name="Marquee" id="70" startTime="232300" endTime="233775" palette="7"/>
+        <Effect ref="21" name="Butterfly" id="71" startTime="233775" endTime="240475" palette="14"/>
+        <Effect ref="22" name="Curtain" id="72" startTime="240475" endTime="246950" palette="16"/>
+        <Effect ref="25" name="Marquee" id="73" startTime="246950" endTime="249200" palette="7"/>
+        <Effect ref="17" name="Marquee" id="74" startTime="249200" endTime="251450" palette="7"/>
+        <Effect ref="7" name="Color Wash" id="75" startTime="251450" endTime="267825" palette="17"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Window Frame">
+      <EffectLayer>
+        <Effect ref="0" name="Snowflakes" selected="1" startTime="0" endTime="7675" palette="0"/>
+        <Effect ref="29" name="Snowflakes" id="1" startTime="7675" endTime="12550" palette="1"/>
+        <Effect ref="29" name="Snowflakes" id="2" startTime="12550" endTime="18150" palette="2"/>
+        <Effect ref="2" name="Marquee" id="3" startTime="18150" endTime="21300" palette="3"/>
+        <Effect ref="3" name="Bars" id="4" startTime="21300" endTime="22000" palette="0"/>
+        <Effect ref="27" name="Curtain" id="5" startTime="22000" endTime="24650" palette="4"/>
+        <Effect ref="3" name="Bars" id="6" startTime="24650" endTime="27150" palette="5"/>
+        <Effect ref="5" name="Spirals" id="7" startTime="27150" endTime="29050" palette="3"/>
+        <Effect ref="6" name="Curtain" id="8" startTime="29050" endTime="31625" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="9" startTime="31625" endTime="36000" palette="6"/>
+        <Effect ref="2" name="Marquee" id="10" startTime="36000" endTime="39000" palette="3"/>
+        <Effect ref="3" name="Bars" id="11" startTime="39000" endTime="40000" palette="0"/>
+        <Effect ref="4" name="Curtain" id="12" startTime="40000" endTime="42650" palette="4"/>
+        <Effect ref="3" name="Bars" id="13" startTime="42650" endTime="45150" palette="5"/>
+        <Effect ref="5" name="Spirals" id="14" startTime="45150" endTime="47050" palette="3"/>
+        <Effect ref="6" name="Curtain" id="15" startTime="47050" endTime="49325" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="16" startTime="49325" endTime="52625" palette="6"/>
+        <Effect ref="8" name="Marquee" id="17" startTime="52625" endTime="54050" palette="7"/>
+        <Effect ref="9" name="Music Effect" id="18" startTime="54050" endTime="72550" palette="7"/>
+        <Effect ref="10" name="Butterfly" id="19" startTime="72550" endTime="80700" palette="8"/>
+        <Effect ref="3" name="Bars" id="20" startTime="80700" endTime="81600" palette="8"/>
+        <Effect ref="11" name="Strobe" id="21" startTime="81600" endTime="86700" palette="8"/>
+        <Effect ref="4" name="Curtain" id="22" startTime="86700" endTime="87600" palette="4"/>
+        <Effect ref="11" name="Strobe" id="23" startTime="87600" endTime="90025" palette="9"/>
+        <Effect ref="5" name="Spirals" id="24" startTime="90025" endTime="96300" palette="3"/>
+        <Effect ref="12" name="Bars" id="25" startTime="96300" endTime="99000" palette="10"/>
+        <Effect ref="13" name="Circles" id="26" startTime="99000" endTime="103200" palette="5"/>
+        <Effect ref="14" name="Shimmer" id="27" startTime="103200" endTime="105000" palette="7"/>
+        <Effect ref="15" name="SingleStrand" id="28" startTime="105000" endTime="107975" palette="11"/>
+        <Effect ref="2" name="Marquee" id="29" startTime="107975" endTime="111075" palette="3"/>
+        <Effect ref="3" name="Bars" id="30" startTime="111075" endTime="112475" palette="0"/>
+        <Effect ref="4" name="Curtain" id="31" startTime="112475" endTime="114425" palette="4"/>
+        <Effect ref="3" name="Bars" id="32" startTime="114425" endTime="116950" palette="5"/>
+        <Effect ref="5" name="Spirals" id="33" startTime="116950" endTime="118900" palette="3"/>
+        <Effect ref="6" name="Curtain" id="34" startTime="118900" endTime="121175" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="35" startTime="121175" endTime="124400" palette="6"/>
+        <Effect ref="8" name="Marquee" id="36" startTime="124400" endTime="125975" palette="7"/>
+        <Effect ref="2" name="Marquee" id="37" startTime="125975" endTime="129025" palette="3"/>
+        <Effect ref="3" name="Bars" id="38" startTime="129025" endTime="129900" palette="0"/>
+        <Effect ref="4" name="Curtain" id="39" startTime="129900" endTime="132400" palette="4"/>
+        <Effect ref="16" name="Bars" id="40" startTime="132400" endTime="134925" palette="12"/>
+        <Effect ref="5" name="Spirals" id="41" startTime="134925" endTime="136850" palette="3"/>
+        <Effect ref="6" name="Curtain" id="42" startTime="136850" endTime="139375" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="43" startTime="139375" endTime="142475" palette="6"/>
+        <Effect ref="17" name="Marquee" id="44" startTime="142500" endTime="143625" palette="7"/>
+        <Effect ref="9" name="Music Effect" id="45" startTime="143625" endTime="159300" palette="7"/>
+        <Effect ref="7" name="Color Wash" id="46" startTime="159300" endTime="162450" palette="13"/>
+        <Effect ref="6" name="Curtain" id="47" startTime="162450" endTime="166850" palette="14"/>
+        <Effect ref="18" name="Shockwave" id="48" startTime="166850" endTime="171350" palette="11"/>
+        <Effect ref="19" name="Fireworks" id="49" startTime="171350" endTime="176175" palette="15"/>
+        <Effect ref="20" name="Ripple" id="50" startTime="176175" endTime="179850" palette="5"/>
+        <Effect ref="21" name="Butterfly" id="51" startTime="179850" endTime="186600" palette="14"/>
+        <Effect ref="22" name="Curtain" id="52" startTime="186600" endTime="192775" palette="16"/>
+        <Effect ref="2" name="Marquee" id="53" startTime="192775" endTime="194725" palette="7"/>
+        <Effect ref="15" name="SingleStrand" id="54" startTime="194725" endTime="197700" palette="7"/>
+        <Effect ref="2" name="Marquee" id="55" startTime="197700" endTime="200850" palette="3"/>
+        <Effect ref="3" name="Bars" id="56" startTime="200850" endTime="201750" palette="0"/>
+        <Effect ref="4" name="Curtain" id="57" startTime="201750" endTime="204225" palette="4"/>
+        <Effect ref="3" name="Bars" id="58" startTime="204225" endTime="206800" palette="5"/>
+        <Effect ref="5" name="Spirals" id="59" startTime="206800" endTime="208750" palette="3"/>
+        <Effect ref="6" name="Curtain" id="60" startTime="208750" endTime="211000" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="61" startTime="211000" endTime="214125" palette="6"/>
+        <Effect ref="8" name="Marquee" id="62" startTime="214125" endTime="215775" palette="7"/>
+        <Effect ref="23" name="Marquee" id="63" startTime="215775" endTime="218000" palette="3"/>
+        <Effect ref="24" name="Bars" id="64" startTime="218000" endTime="219675" palette="2"/>
+        <Effect ref="4" name="Curtain" id="65" startTime="219675" endTime="222275" palette="4"/>
+        <Effect ref="16" name="Bars" id="66" startTime="222275" endTime="224775" palette="12"/>
+        <Effect ref="5" name="Spirals" id="67" startTime="224775" endTime="226700" palette="3"/>
+        <Effect ref="6" name="Curtain" id="68" startTime="226700" endTime="228975" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="69" startTime="228975" endTime="232275" palette="6"/>
+        <Effect ref="17" name="Marquee" id="70" startTime="232300" endTime="233775" palette="7"/>
+        <Effect ref="21" name="Butterfly" id="71" startTime="233775" endTime="240475" palette="14"/>
+        <Effect ref="22" name="Curtain" id="72" startTime="240475" endTime="246950" palette="16"/>
+        <Effect ref="25" name="Marquee" id="73" startTime="246950" endTime="249200" palette="7"/>
+        <Effect ref="17" name="Marquee" id="74" startTime="249200" endTime="251450" palette="7"/>
+        <Effect ref="7" name="Color Wash" id="75" startTime="251450" endTime="267825" palette="17"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Single Line">
+      <EffectLayer>
+        <Effect ref="0" name="Snowflakes" startTime="0" endTime="7675" palette="0"/>
+        <Effect ref="29" name="Snowflakes" id="1" startTime="7675" endTime="12550" palette="1"/>
+        <Effect ref="29" name="Snowflakes" id="2" startTime="12550" endTime="18150" palette="2"/>
+        <Effect ref="2" name="Marquee" id="3" startTime="18150" endTime="21300" palette="3"/>
+        <Effect ref="3" name="Bars" id="4" startTime="21300" endTime="22000" palette="0"/>
+        <Effect ref="27" name="Curtain" id="5" startTime="22000" endTime="24650" palette="4"/>
+        <Effect ref="3" name="Bars" id="6" startTime="24650" endTime="27150" palette="5"/>
+        <Effect ref="5" name="Spirals" id="7" startTime="27150" endTime="29050" palette="3"/>
+        <Effect ref="6" name="Curtain" id="8" startTime="29050" endTime="31625" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="9" startTime="31625" endTime="36000" palette="6"/>
+        <Effect ref="2" name="Marquee" id="10" startTime="36000" endTime="39000" palette="3"/>
+        <Effect ref="3" name="Bars" id="11" startTime="39000" endTime="40000" palette="0"/>
+        <Effect ref="4" name="Curtain" id="12" startTime="40000" endTime="42650" palette="4"/>
+        <Effect ref="3" name="Bars" id="13" startTime="42650" endTime="45150" palette="5"/>
+        <Effect ref="5" name="Spirals" id="14" startTime="45150" endTime="47050" palette="3"/>
+        <Effect ref="6" name="Curtain" id="15" startTime="47050" endTime="49325" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="16" startTime="49325" endTime="52625" palette="6"/>
+        <Effect ref="8" name="Marquee" id="17" startTime="52625" endTime="54050" palette="7"/>
+        <Effect ref="9" name="Music Effect" id="18" startTime="54050" endTime="72550" palette="7"/>
+        <Effect ref="10" name="Butterfly" id="19" startTime="72550" endTime="80700" palette="8"/>
+        <Effect ref="3" name="Bars" id="20" startTime="80700" endTime="81600" palette="8"/>
+        <Effect ref="11" name="Strobe" id="21" startTime="81600" endTime="86700" palette="8"/>
+        <Effect ref="4" name="Curtain" id="22" startTime="86700" endTime="87600" palette="4"/>
+        <Effect ref="11" name="Strobe" id="23" startTime="87600" endTime="90025" palette="9"/>
+        <Effect ref="5" name="Spirals" id="24" startTime="90025" endTime="96300" palette="3"/>
+        <Effect ref="12" name="Bars" id="25" startTime="96300" endTime="99000" palette="10"/>
+        <Effect ref="13" name="Circles" id="26" startTime="99000" endTime="103200" palette="5"/>
+        <Effect ref="14" name="Shimmer" id="27" startTime="103200" endTime="105000" palette="7"/>
+        <Effect ref="15" name="SingleStrand" id="28" startTime="105000" endTime="107975" palette="11"/>
+        <Effect ref="2" name="Marquee" id="29" startTime="107975" endTime="111075" palette="3"/>
+        <Effect ref="3" name="Bars" id="30" startTime="111075" endTime="112475" palette="0"/>
+        <Effect ref="4" name="Curtain" id="31" startTime="112475" endTime="114425" palette="4"/>
+        <Effect ref="3" name="Bars" id="32" startTime="114425" endTime="116950" palette="5"/>
+        <Effect ref="5" name="Spirals" id="33" startTime="116950" endTime="118900" palette="3"/>
+        <Effect ref="6" name="Curtain" id="34" startTime="118900" endTime="121175" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="35" startTime="121175" endTime="124400" palette="6"/>
+        <Effect ref="8" name="Marquee" id="36" startTime="124400" endTime="125975" palette="7"/>
+        <Effect ref="2" name="Marquee" id="37" startTime="125975" endTime="129025" palette="3"/>
+        <Effect ref="3" name="Bars" id="38" startTime="129025" endTime="129900" palette="0"/>
+        <Effect ref="4" name="Curtain" id="39" startTime="129900" endTime="132400" palette="4"/>
+        <Effect ref="16" name="Bars" id="40" startTime="132400" endTime="134925" palette="12"/>
+        <Effect ref="5" name="Spirals" id="41" startTime="134925" endTime="136850" palette="3"/>
+        <Effect ref="6" name="Curtain" id="42" startTime="136850" endTime="139375" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="43" startTime="139375" endTime="142475" palette="6"/>
+        <Effect ref="17" name="Marquee" id="44" startTime="142500" endTime="143625" palette="7"/>
+        <Effect ref="9" name="Music Effect" id="45" startTime="143625" endTime="159300" palette="7"/>
+        <Effect ref="7" name="Color Wash" id="46" startTime="159300" endTime="162450" palette="13"/>
+        <Effect ref="6" name="Curtain" id="47" startTime="162450" endTime="166850" palette="14"/>
+        <Effect ref="18" name="Shockwave" id="48" startTime="166850" endTime="171350" palette="11"/>
+        <Effect ref="19" name="Fireworks" id="49" startTime="171350" endTime="176175" palette="15"/>
+        <Effect ref="20" name="Ripple" id="50" startTime="176175" endTime="179850" palette="5"/>
+        <Effect ref="21" name="Butterfly" id="51" startTime="179850" endTime="186600" palette="14"/>
+        <Effect ref="22" name="Curtain" id="52" startTime="186600" endTime="192775" palette="16"/>
+        <Effect ref="2" name="Marquee" id="53" startTime="192775" endTime="194725" palette="7"/>
+        <Effect ref="15" name="SingleStrand" id="54" startTime="194725" endTime="197700" palette="7"/>
+        <Effect ref="2" name="Marquee" id="55" startTime="197700" endTime="200850" palette="3"/>
+        <Effect ref="3" name="Bars" id="56" startTime="200850" endTime="201750" palette="0"/>
+        <Effect ref="4" name="Curtain" id="57" startTime="201750" endTime="204225" palette="4"/>
+        <Effect ref="3" name="Bars" id="58" startTime="204225" endTime="206800" palette="5"/>
+        <Effect ref="5" name="Spirals" id="59" startTime="206800" endTime="208750" palette="3"/>
+        <Effect ref="6" name="Curtain" id="60" startTime="208750" endTime="211000" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="61" startTime="211000" endTime="214125" palette="6"/>
+        <Effect ref="8" name="Marquee" id="62" startTime="214125" endTime="215775" palette="7"/>
+        <Effect ref="23" name="Marquee" id="63" startTime="215775" endTime="218000" palette="3"/>
+        <Effect ref="24" name="Bars" id="64" startTime="218000" endTime="219675" palette="2"/>
+        <Effect ref="4" name="Curtain" id="65" startTime="219675" endTime="222275" palette="4"/>
+        <Effect ref="16" name="Bars" id="66" startTime="222275" endTime="224775" palette="12"/>
+        <Effect ref="5" name="Spirals" id="67" startTime="224775" endTime="226700" palette="3"/>
+        <Effect ref="6" name="Curtain" id="68" startTime="226700" endTime="228975" palette="5"/>
+        <Effect ref="7" name="Color Wash" id="69" startTime="228975" endTime="232275" palette="6"/>
+        <Effect ref="17" name="Marquee" id="70" startTime="232300" endTime="233775" palette="7"/>
+        <Effect ref="21" name="Butterfly" id="71" startTime="233775" endTime="240475" palette="14"/>
+        <Effect ref="22" name="Curtain" id="72" startTime="240475" endTime="246950" palette="16"/>
+        <Effect ref="25" name="Marquee" id="73" startTime="246950" endTime="249200" palette="7"/>
+        <Effect ref="17" name="Marquee" id="74" startTime="249200" endTime="251450" palette="7"/>
+        <Effect ref="7" name="Color Wash" id="75" startTime="251450" endTime="267825" palette="17"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
